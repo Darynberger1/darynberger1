@@ -72,13 +72,13 @@ html, body {
     margin: 100px auto;
  	background: rgba(178, 0, 24, 0.75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
-	border: 1px dashed blue;
+	border: 1px groove blue;
 }
 
    
 #logo {
     margin-bottom: 16px;
-	border: 3px dashed white;
+	border: 3px groove white;
 	text-align: center;
 }
 
